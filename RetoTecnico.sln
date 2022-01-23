@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word.API", "Word.API\Word.API.csproj", "{478A6501-4A0D-4C0F-B1FE-84224272AEBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word.Web", "Word.Web\Word.Web.csproj", "{73B0BC3B-7FB0-4B7E-9353-03B471C8215C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{478A6501-4A0D-4C0F-B1FE-84224272AEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478A6501-4A0D-4C0F-B1FE-84224272AEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478A6501-4A0D-4C0F-B1FE-84224272AEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478A6501-4A0D-4C0F-B1FE-84224272AEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B0BC3B-7FB0-4B7E-9353-03B471C8215C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B0BC3B-7FB0-4B7E-9353-03B471C8215C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B0BC3B-7FB0-4B7E-9353-03B471C8215C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B0BC3B-7FB0-4B7E-9353-03B471C8215C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF6E116A-DBB9-4DEB-8568-B4D484D707B1}
+	EndGlobalSection
+EndGlobal
